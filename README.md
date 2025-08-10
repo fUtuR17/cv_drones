@@ -46,11 +46,11 @@
 
 ### Precision-Recall кривая
 
-![PR Curve](results/pr_curve.png)
+![PR Curve](results/BoxPR_curve.png)
 
 ### F1 Score Confidence
 
-![F1 Score Confidence](results/f1_confidence.png)
+![F1 Score Confidence](results/BoxF1_curve.png)
 
 ---
 
